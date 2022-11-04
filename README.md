@@ -1,7 +1,6 @@
 # assgmnt-4
 
-You will generate 2 Virtual Machines by using **ARM Template**;
-
+topic: You will generate 2 Virtual Machines by using **ARM Template** and login them
 
 	
 Linux Virtual Machine
@@ -19,4 +18,4 @@ Windows Virtual Machine
 
 -> Create a private repository and add “Ibrahim, Mucahit, or Ramazan” as a contributor on this repository only, which is can be done on this repository setting.
 
-Happy coding
+
