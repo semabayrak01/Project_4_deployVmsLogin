@@ -1,4 +1,4 @@
-# assgmnt-4
+# Project-4
 
 topic: You will generate 2 Virtual Machines by using **ARM Template** and login them
 
